@@ -16,7 +16,7 @@ function AppHome() {
       <AppFeature/>
       <AppWorks/>
       <AppFaq/>
-      <AppPricing/>
+      {/* <AppPricing/> */}
       <AppContact/>
     </div>
   );

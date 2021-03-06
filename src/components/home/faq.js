@@ -34,8 +34,8 @@ function AppFaq() {
         </Collapse>
         <div className="quickSupport">
           <h3>Want quick support?</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur velit necessitatibus praesentium aliquid eos in neque recusandae, incidunt esse dolore voluptatum nesciunt quod soluta consequuntur voluptatibus ab excepturi nobis! Porro!</p>
-          <Button type="primary" size="large"><i className="fas fa-envelope"></i> Email your question</Button>
+          <p> Submit a support request and we'll get back to you ASAP!</p>
+          <Button type="primary" size="large"><i className="fas fa-envelope"></i>Email your question<a  href="https://login.yahoo.com/?.src=ym&.partner=none&.lang=en-IN&.intl=in&.done=https%3A%2F%2Fmail.yahoo.com%2Fd%3F.intl%3Din%26.lang%3Den-IN%26.partner%3Dnone%26.src%3Dfp"></a></Button>
         </div>
       </div>
     </div>  

@@ -334,6 +334,7 @@ faqs
   text-align: center;
   max-width: 740px;
   margin: auto;
+  text-emphasis-color: white;
 }
 
 .faqBlock .fas {

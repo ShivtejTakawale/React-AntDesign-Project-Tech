@@ -20,7 +20,7 @@ function AppHeader() {
       <div className="header">
         <div className="logo">
           <i className="fas fa-bolt"></i>
-          <a href="http://google.com">Tech</a>
+          <a href="http://google.com">KANBAN</a>
         </div>
         <div className="mobileHidden">
           <Anchor targetOffset="65">
@@ -29,7 +29,7 @@ function AppHeader() {
             <Link href="#feature" title="Features" />
             <Link href="#works" title="How it works" />
             <Link href="#faq" title="FAQ" />
-            <Link href="#pricing" title="Pricing" />
+            {/* <Link href="#pricing" title="Pricing" /> */}
             <Link href="#contact" title="Contact" />
           </Anchor>
         </div>
@@ -49,7 +49,7 @@ function AppHeader() {
               <Link href="#feature" title="Features" />
               <Link href="#works" title="How it works" />
               <Link href="#faq" title="FAQ" />
-              <Link href="#pricing" title="Pricing" />
+              {/* <Link href="#pricing" title="Pricing" /> */}
               <Link href="#contact" title="Contact" />
             </Anchor>
           </Drawer>

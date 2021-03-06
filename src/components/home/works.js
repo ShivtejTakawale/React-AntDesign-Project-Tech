@@ -30,13 +30,13 @@ class AppWorks extends React.Component {
             <Button size="large" onClick={this.showModal}><i className="fas fa-play"></i></Button>
           </div>
           <Modal
-            title="Woocommerce Tutorial"
+            title="What is kanban?"
             visible={this.state.visible}
             onCancel={this.handleCancel}
             footer={null}
             destroyOnClose = {true}
           >
-            <iframe title="Woocommerce Tutorial" width="100%" height="350" src="https://www.youtube.com/embed/8f8_JYIzOno?list=PLiUrl-SQRR7LQINGQGE99pXWDuKq4SxfU"></iframe>
+            <iframe title="What is kanban?" width="100%" height="350" src="https://www.youtube.com/watch?v=iVaFVa7HYj4"></iframe>
           </Modal>
         </div>
       </div>
